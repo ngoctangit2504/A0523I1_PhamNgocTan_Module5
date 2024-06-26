@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": "4",
+      "name": "Xiaomi",
+      "dateOfBirth": "02/11/2002",
+      "gender": "Nam",
+      "CMND": "34534535",
+      "phone": "0915399505",
+      "email": "lulu@gmai.com",
+      "address": "25"
+    },
+    {
+      "id": "5",
+      "name": "Oppo",
+      "dateOfBirth": "02/11/2002",
+      "gender": "Nam",
+      "CMND": "34534535",
+      "phone": "0915399505",
+      "email": "lulu@gmai.com",
+      "address": "25"
+    },
+    {
+      "id": "6",
+      "name": "Amiknim",
+      "dateOfBirth": "02/11/2002",
+      "gender": "Nam",
+      "CMND": "34534535",
+      "phone": "0915399505",
+      "email": "lulu@gmai.com",
+      "address": "25"
+    },
+    {
+      "id": "12",
+      "name": "Xiaomivfdv",
+      "dateOfBirth": "02/11/2002",
+      "gender": "Nam",
+      "CMND": "34534535",
+      "phone": "0915399505",
+      "email": "lulu@gmai.com",
+      "address": "25"
+    }
+  ],
+  "classrooms": [],
+  "username": {}
+}

@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "id": "431",
+      "name": "Tieng Anh",
+      "ngay": "1/1/2001",
+      "soluong": "5",
+      "loai": {
+        "id": 2,
+        "name": "Sach Hoc"
+      }
+    },
+    {
+      "id": "313",
+      "name": "pikachu",
+      "ngay": "2/1/2001",
+      "soluong": "6",
+      "loai": {
+        "id": 1,
+        "name": "Truyen"
+      }
+    },
+    {
+      "id": "58",
+      "name": "Xiaomi",
+      "ngay": "1/1/2001",
+      "soluong": "7",
+      "loai": {
+        "id": 4,
+        "name": "Sach khac"
+      }
+    },
+    {
+      "id": "112",
+      "name": "Oppo",
+      "ngay": "1/1/2001",
+      "soluong": "7",
+      "loai": {
+        "id": 4,
+        "name": "Sach khac"
+      }
+    }
+  ],
+  "loais": [
+    {
+      "id": 1,
+      "name": "Truyen"
+    },
+    {
+      "id": 2,
+      "name": "Sach Hoc"
+    },
+    {
+      "id": 3,
+      "name": "Sach day doi"
+    },
+    {
+      "id": 4,
+      "name": "Sach khac"
+    }
+  ]
+}

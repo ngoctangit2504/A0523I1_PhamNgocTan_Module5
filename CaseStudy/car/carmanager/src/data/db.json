@@ -1,0 +1,55 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Everest",
+      "type": {
+        "id": 1,
+        "nameTypes": "SUV"
+      },
+      "oil": false
+    },
+    {
+      "id": 2,
+      "name": "Ranger Raptor",
+      "type": {
+        "id": 3,
+        "nameTypes": "Bán Tải"
+      },
+      "oil": true
+    },
+    {
+      "id": 6,
+      "name": "Mustang",
+      "oil": 1,
+      "type": {
+        "id": 2,
+        "nameTypes": "Sedan"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Teritory",
+      "gender": 0,
+      "type": {
+        "id": 1,
+        "nameTypes": "SUV"
+      }
+    }
+  ],
+
+  "types": [
+    {
+      "id": 1,
+      "nameTypes": "SUV"
+    },
+    {
+      "id": 2,
+      "nameTypes": "Sedan"
+    },
+    {
+      "id": 3,
+      "nameTypes": "Bán tải"
+    }
+  ]
+}

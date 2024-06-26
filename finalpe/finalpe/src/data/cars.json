@@ -1,0 +1,63 @@
+{
+  "cars": [
+    {
+      "id": "2",
+      "name": "Ford Ranger",
+      "author": "frg",
+      "price": 1000000000,
+      "loai": {
+        "id": 1,
+        "name": "Ban Tai"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Ford Everest",
+      "author": "evr",
+      "price": 1300000000,
+      "loai": {
+        "id": 2,
+        "name": "SUV"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Ford Mustang",
+      "author": "fmt",
+      "price": 5000000000,
+      "loai": {
+        "id": 4,
+        "name": "Supper Car"
+      }
+    },
+    {
+      "id": "815",
+      "name": "Xiaomi",
+      "author": "fsga",
+      "price": "25000000",
+      "category": {},
+      "loai": {
+        "id": 3,
+        "name": "Sedan"
+      }
+    }
+  ],
+  "loais": [
+    {
+      "id": 1,
+      "name": "Ban Tai"
+    },
+    {
+      "id": 2,
+      "name": "SUV"
+    },
+    {
+      "id": 3,
+      "name": "Sedan"
+    },
+    {
+      "id": 4,
+      "name": "Supper Car"
+    }
+  ]
+}

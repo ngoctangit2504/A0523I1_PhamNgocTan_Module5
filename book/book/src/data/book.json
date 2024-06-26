@@ -1,0 +1,132 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 12.49,
+      "category": {
+        "id": 1,
+        "name": "Arts & Music"
+      }
+    },
+    {
+      "id": "3",
+      "name": "A0523I1_Tôn Thất Diễn",
+      "author": "ádasdasd",
+      "price": 123,
+      "category": {
+        "id": 1,
+        "name": "Arts & Music"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 8.99,
+      "category": {
+        "id": 2,
+        "name": "Computers & Tech"
+      }
+    },
+    {
+      "id": "8",
+      "name": "A0523I1_Tôn Thất ",
+      "author": "123",
+      "price": 222,
+      "category": {
+        "id": 5,
+        "name": "Horror"
+      }
+    },
+    {
+      "id": "491",
+      "name": "112hất Diễn",
+      "author": "ádasdasd",
+      "price": "123",
+      "category": {
+        "id": 5,
+        "name": "Horror"
+      }
+    },
+    {
+      "id": "751",
+      "name": "112hất Diễn",
+      "author": "ádasdasd",
+      "price": "10",
+      "category": {
+        "id": 3,
+        "name": "Fiction"
+      }
+    },
+    {
+      "id": "227",
+      "name": "A0523I1_Tôn Thất Diễn",
+      "author": "ádasdasd",
+      "price": "123",
+      "category": {
+        "id": 1,
+        "name": "Arts & Music"
+      }
+    },
+    {
+      "id": "90",
+      "name": "huhuhu",
+      "author": "uauauau",
+      "price": 1234,
+      "category": {
+        "id": 4,
+        "name": "History"
+      }
+    },
+    {
+      "id": "191",
+      "name": "Oppo",
+      "author": "fsga",
+      "price": 245245254254,
+      "category": {
+        "id": "3",
+        "name": "Fiction"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Arts & Music"
+    },
+    {
+      "id": "2",
+      "name": "Computers & Tech"
+    },
+    {
+      "id": "3",
+      "name": "Fiction"
+    },
+    {
+      "id": "4",
+      "name": "History"
+    },
+    {
+      "id": "5",
+      "name": "Horror"
+    },
+    {
+      "id": "6",
+      "name": "Romance"
+    },
+    {
+      "id": "7",
+      "name": "Sci-Fi"
+    },
+    {
+      "id": "8",
+      "name": "Thriller"
+    },
+    {
+      "id": "9",
+      "name": "Young Adult"
+    }
+  ]
+}

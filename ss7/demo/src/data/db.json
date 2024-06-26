@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "3",
+      "name": "A0723I1",
+      "address": "QN"
+    },
+    {
+      "id": "3",
+      "name": "HaiTT",
+      "address": "Đà Nẵng"
+    }
+  ],
+  "classrooms": [],
+  "username": {}
+}
